@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Solar Energy.
 
 ## Será desenvolvido em qual linguagem? 
@@ -23,3 +24,6 @@
 * css puro e bootstrap
 ## Utilizará alguma outra biblioteca importante?
 * chart js -  react icons
+=======
+# solarEnergiEquipe6
+>>>>>>> ea004785e6789d6e8f45cfedf7d89400ccaf4ed4
